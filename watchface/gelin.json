@@ -56,20 +56,20 @@
     "MonthAndDay": {
       "Separate": {
         "Month": {
-          "TopLeftX": 104,
+          "TopLeftX": 126,
           "TopLeftY": 6,
-          "BottomRightX": 119,
-          "BottomRightY": 15,
+          "BottomRightX": 144,
+          "BottomRightY": 20,
           "Alignment": "TopLeft",
           "Spacing": 2,
           "ImageIndex": 11,
           "ImagesCount": 10
         },
         "Day": {
-          "TopLeftX": 79,
+          "TopLeftX": 152,
           "TopLeftY": 6,
-          "BottomRightX": 94,
-          "BottomRightY": 15,
+          "BottomRightX": 170,
+          "BottomRightY": 20,
           "Alignment": "TopLeft",
           "Spacing": 2,
           "ImageIndex": 11,
