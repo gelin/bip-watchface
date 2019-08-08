@@ -135,17 +135,5 @@
       },
       "ImageIndexOn": 61
     }
-  },
-  "Battery": {
-    "Text": {
-      "TopLeftX": 136,
-      "TopLeftY": 6,
-      "BottomRightX": 154,
-      "BottomRightY": 14,
-      "Alignment": "TopRight",
-      "Spacing": 2,
-      "ImageIndex": 11,
-      "ImagesCount": 10
-    }
   }
 }
