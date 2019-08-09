@@ -17,6 +17,10 @@ pack:
 patch:
 	echo '0f00ee0000003960' | xxd -r -p | dd of=watchface/$(NAME)_packed.bin bs=1 seek=16 count=8 conv=notrunc
 
+.PHONY: zip
+zip:
+	cd build && zip -u $(NAME).zip $(NAME).bin $(NAME).png || test $$? = 12
+
 .PHONY: copy-to-dropbox
 copy-to-dropbox:
 	cp build/$(NAME).* ~/Dropbox/tmp/bip/

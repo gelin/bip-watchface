@@ -1,4 +1,4 @@
 syntax: glob
 .idea/*
-watchface/*_packed*
+watchface/*.bin
 build/
