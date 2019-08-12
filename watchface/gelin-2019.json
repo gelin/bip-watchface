@@ -115,25 +115,26 @@
   "Status": {
     "Bluetooth": {
       "Coordinates": {
-        "X": 10,
+        "X": 21,
         "Y": 8
       },
       "ImageIndexOn": 58,
       "ImageIndexOff": 59
     },
-    "Alarm": {
+    "DoNotDisturb": {
       "Coordinates": {
-        "X": 32,
+        "X": 31,
         "Y": 8
       },
       "ImageIndexOn": 60
-    },
-    "DoNotDisturb": {
-      "Coordinates": {
-        "X": 20,
-        "Y": 8
-      },
-      "ImageIndexOn": 61
+    }
+  },
+  "Battery": {
+    "Icon": {
+      "X": 10,
+      "Y": 8,
+      "ImageIndex": 61,
+      "ImagesCount": 8
     }
   }
 }
