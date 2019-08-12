@@ -89,7 +89,7 @@
   "Weather": {
     "Icon": {
       "CustomIcon": {
-        "X": 104,
+        "X": 112,
         "Y": 149,
         "ImageIndex": 30,
         "ImagesCount": 26
@@ -98,12 +98,12 @@
     "Temperature": {
       "Current": {
         "Number": {
-          "TopLeftX": 133,
+          "TopLeftX": 138,
           "TopLeftY": 154,
-          "BottomRightX": 167,
+          "BottomRightX": 169,
           "BottomRightY": 167,
           "Alignment": "TopRight",
-          "Spacing": 3,
+          "Spacing": 2,
           "ImageIndex": 11,
           "ImagesCount": 10
         },
