@@ -5,7 +5,7 @@ Width: 7
 Images: 9
 
 Position:
-    X: 10
+    X: 6
     Y: 7
     
 Next position:
