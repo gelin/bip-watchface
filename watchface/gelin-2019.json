@@ -41,8 +41,8 @@
       "Number": {
         "TopLeftX": 6,
         "TopLeftY": 154,
-        "BottomRightX": 74,
-        "BottomRightY": 167,
+        "BottomRightX": 50,
+        "BottomRightY": 170,
         "Alignment": "TopLeft",
         "Spacing": 2,
         "ImageIndex": 11,
@@ -96,12 +96,30 @@
       }
     },
     "Temperature": {
+      "Today": {
+        "OneLine": {
+          "Number": {
+            "TopLeftX": 50,
+            "TopLeftY": 154,
+            "BottomRightX": 110,
+            "BottomRightY": 170,
+            "Alignment": "TopRight",
+            "Spacing": 2,
+            "ImageIndex": 11,
+            "ImagesCount": 10
+          },
+          "MinusSignImageIndex": 56,
+          "DelimiterImageIndex": 70,
+          "AppendDegreesForBoth": false,
+          "DegreesImageIndex": 57
+        }
+      },
       "Current": {
         "Number": {
           "TopLeftX": 138,
           "TopLeftY": 154,
           "BottomRightX": 169,
-          "BottomRightY": 167,
+          "BottomRightY": 170,
           "Alignment": "TopRight",
           "Spacing": 2,
           "ImageIndex": 11,
