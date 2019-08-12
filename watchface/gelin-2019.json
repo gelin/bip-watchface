@@ -44,7 +44,7 @@
         "BottomRightX": 50,
         "BottomRightY": 170,
         "Alignment": "TopLeft",
-        "Spacing": 2,
+        "Spacing": 1,
         "ImageIndex": 11,
         "ImagesCount": 10
       },
@@ -89,7 +89,7 @@
   "Weather": {
     "Icon": {
       "CustomIcon": {
-        "X": 112,
+        "X": 115,
         "Y": 149,
         "ImageIndex": 30,
         "ImagesCount": 26
@@ -101,10 +101,10 @@
           "Number": {
             "TopLeftX": 50,
             "TopLeftY": 154,
-            "BottomRightX": 110,
+            "BottomRightX": 113,
             "BottomRightY": 170,
             "Alignment": "TopRight",
-            "Spacing": 2,
+            "Spacing": 1,
             "ImageIndex": 11,
             "ImagesCount": 10
           },
@@ -116,12 +116,12 @@
       },
       "Current": {
         "Number": {
-          "TopLeftX": 138,
+          "TopLeftX": 140,
           "TopLeftY": 154,
           "BottomRightX": 169,
           "BottomRightY": 170,
           "Alignment": "TopRight",
-          "Spacing": 2,
+          "Spacing": 1,
           "ImageIndex": 11,
           "ImagesCount": 10
         },
