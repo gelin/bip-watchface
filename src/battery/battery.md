@@ -1,12 +1,12 @@
 # Battery icon
 
-Height: 11
+Height: 12
 Width: 7
-Images: 8
+Images: 9
 
 Position:
     X: 10
-    Y: 8
+    Y: 7
     
 Next position:
     X: 21
