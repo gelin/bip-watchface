@@ -39,12 +39,12 @@
   "Activity": {
     "Distance": {
       "Number": {
-        "TopLeftX": 30,
-        "TopLeftY": 153,
-        "BottomRightX": 88,
-        "BottomRightY": 166,
+        "TopLeftX": 6,
+        "TopLeftY": 154,
+        "BottomRightX": 74,
+        "BottomRightY": 167,
         "Alignment": "TopLeft",
-        "Spacing": 3,
+        "Spacing": 2,
         "ImageIndex": 11,
         "ImagesCount": 10
       },
@@ -99,9 +99,9 @@
       "Current": {
         "Number": {
           "TopLeftX": 133,
-          "TopLeftY": 153,
+          "TopLeftY": 154,
           "BottomRightX": 167,
-          "BottomRightY": 166,
+          "BottomRightY": 167,
           "Alignment": "TopRight",
           "Spacing": 3,
           "ImageIndex": 11,
