@@ -101,7 +101,7 @@
           "Number": {
             "TopLeftX": 50,
             "TopLeftY": 154,
-            "BottomRightX": 113,
+            "BottomRightX": 112,
             "BottomRightY": 170,
             "Alignment": "TopRight",
             "Spacing": 1,
@@ -110,7 +110,7 @@
           },
           "MinusSignImageIndex": 56,
           "DelimiterImageIndex": 70,
-          "AppendDegreesForBoth": false,
+          "AppendDegreesForBoth": true,
           "DegreesImageIndex": 57
         }
       },
