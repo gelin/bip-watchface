@@ -16,6 +16,8 @@ Custom watchface for [Amazfit Bip](https://en.amazfit.com/bip.html) smartwatches
 
 # Installation
 
+## Android
+
 * You need [Mi Fit](https://play.google.com/store/apps/details?id=com.xiaomi.hm.health) app installed.
 * Download [archive](https://bitbucket.org/gelin/bip-watchface/downloads/gelin-2019.zip).
 * Unpack the archive and put two files from it (`.bin` and `.png`) to your phone.
