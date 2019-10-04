@@ -40,7 +40,13 @@
         "X": 84,
         "Y": 69,
         "ImageIndex": 71,
-        "ImagesCount": 6
+        "ImagesCount": 10
+      },
+      "Ones": {
+        "X": 0,
+        "Y": 0,
+        "ImageIndex": 77,
+        "ImagesCount": 10
       }
     }
   },
