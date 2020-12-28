@@ -1,5 +1,5 @@
 WATCHFACE ?= wine ~/opt/AmazfitBipTools/WatchFace.exe
-NAME ?= gelin-2020
+NAME ?= gelin-2021
 
 .PHONY: build
 build: pack patch
