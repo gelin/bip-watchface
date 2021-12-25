@@ -2,17 +2,17 @@ Custom watchface for [Amazfit Bip](https://en.amazfit.com/bip.html) smartwatches
 
 # Shots
 
-![](watchface/gelin-2021_packed_static.png)
-![](watchface/gelin-2021_packed_animated_0.png) 
-![](watchface/gelin-2021_packed_animated_1.png) 
-![](watchface/gelin-2021_packed_animated_2.png)
-![](watchface/gelin-2021_packed_animated_3.png)
-![](watchface/gelin-2021_packed_animated_4.png)
-![](watchface/gelin-2021_packed_animated_5.png)
-![](watchface/gelin-2021_packed_animated_6.png)
-![](watchface/gelin-2021_packed_animated_7.png)
-![](watchface/gelin-2021_packed_animated_8.png)
-![](watchface/gelin-2021_packed_animated_9.png)
+![](watchface/gelin-2022_packed_static.png)
+![](watchface/gelin-2022_packed_animated_0.png) 
+![](watchface/gelin-2022_packed_animated_1.png) 
+![](watchface/gelin-2022_packed_animated_2.png)
+![](watchface/gelin-2022_packed_animated_3.png)
+![](watchface/gelin-2022_packed_animated_4.png)
+![](watchface/gelin-2022_packed_animated_5.png)
+![](watchface/gelin-2022_packed_animated_6.png)
+![](watchface/gelin-2022_packed_animated_7.png)
+![](watchface/gelin-2022_packed_animated_8.png)
+![](watchface/gelin-2022_packed_animated_9.png)
 
 # Installation
 
@@ -21,7 +21,7 @@ Custom watchface for [Amazfit Bip](https://en.amazfit.com/bip.html) smartwatches
 ### With Mi Fit
 
 * You need [Mi Fit](https://play.google.com/store/apps/details?id=com.xiaomi.hm.health) app installed.
-* Download [archive](https://github.com/gelin/bip-watchface/releases/download/2021/gelin-2021.zip).
+* Download [archive](https://github.com/gelin/bip-watchface/releases/download/2022/gelin-2022.zip).
 * Unpack the archive and put two files from it (`.bin` and `.png`) to your phone.
 * Using a file manager create a new folder (with any name) under `Android/data/com.xiaomi.hm.health/files/watch_skin_local/` on a volume where Mi Fit is installed.
 * Copy the files from archive to the new folder.
@@ -31,7 +31,7 @@ Custom watchface for [Amazfit Bip](https://en.amazfit.com/bip.html) smartwatches
 ### With Amazfit Tools
 
 * Tou need [Amazfit Tools](https://play.google.com/store/apps/details?id=cz.zdenekhorak.amazfittools) app installed.
-* Download [archive](https://github.com/gelin/bip-watchface/releases/download/2021/gelin-2021.zip).
+* Download [archive](https://github.com/gelin/bip-watchface/releases/download/2022/gelin-2022.zip).
 * Unpack the archive and put two files from it (`.bin` and `.png`) to your phone.
 * Open Amazfit Tools, navigate to Watch Faces→Settings (tab with gear icon)→Install Custom (Upload and install your watch face file).
 * Find out and choose the downloaded and unpacked `.bin` file.
