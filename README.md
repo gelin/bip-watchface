@@ -1,4 +1,4 @@
-Custom watchface for [Amazfit Bip](https://en.amazfit.com/bip.html) smartwatches.
+Custom watchface for [Amazfit Bip](https://www.amazfit.com/ru/bip) smartwatches.
 
 # Shots
 
