@@ -34,20 +34,6 @@
         "ImageIndex": 1,
         "ImagesCount": 10
       }
-    },
-    "Seconds": {
-      "Tens": {
-        "X": 84,
-        "Y": 76,
-        "ImageIndex": 71,
-        "ImagesCount": 6
-      },
-      "Ones": {
-        "X": 84,
-        "Y": 76,
-        "ImageIndex": 77,
-        "ImagesCount": 0
-      }
     }
   },
   "Activity": {
