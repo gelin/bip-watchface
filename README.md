@@ -18,6 +18,25 @@ Custom watchface for [Amazfit Bip](https://www.amazfit.com/ru/bip) smartwatches.
 
 ## Android
 
+### With Notify for Amazfit & Zepp
+
+* You need [Notify for Amazfit & Zepp](https://play.google.com/store/apps/details?id=com.mc.amazfit1) app installed.
+* Download [bin file](https://github.com/gelin/bip-watchface/releases/download/2026/gelin-2026.bin) to your phone.
+* Open Notify for Amazfit, navigate to Device tab→Device tools→Update watchface.
+* Find out and choose the downloaded `.bin` file.
+* Click on it and install the `.bin` file.
+
+Note, you need a stable connection to your watch to install the watchface.
+
+### With Amazfit Tools
+
+* You need [Tools & Amazfit](https://play.google.com/store/apps/details?id=cz.zdenekhorak.amazfittools) app installed.
+* Download [archive](https://github.com/gelin/bip-watchface/releases/download/2026/gelin-2026.zip).
+* Unpack the archive and put two files from it (`.bin` and `.png`) to your phone.
+* Open Amazfit Tools, navigate to Watch Faces→Settings (tab with gear icon)→Install Custom (Upload and install your watch face file).
+* Find out and choose the downloaded and unpacked `.bin` file.
+* Click on it and install the `.bin` file.
+
 ### With Mi Fit
 
 * You need [Mi Fit](https://play.google.com/store/apps/details?id=com.xiaomi.hm.health) app installed.
@@ -27,15 +46,6 @@ Custom watchface for [Amazfit Bip](https://www.amazfit.com/ru/bip) smartwatches.
 * Copy the files from archive to the new folder.
 * Open Mi Fit, navigate to Profile→Devices→Amazfit Bip→Theme settings→Local watchfaces
 * Find out the image of the new watchface, click and install it.
-
-### With Amazfit Tools
-
-* You need [Amazfit Tools](https://play.google.com/store/apps/details?id=cz.zdenekhorak.amazfittools) app installed.
-* Download [archive](https://github.com/gelin/bip-watchface/releases/download/2026/gelin-2026.zip).
-* Unpack the archive and put two files from it (`.bin` and `.png`) to your phone.
-* Open Amazfit Tools, navigate to Watch Faces→Settings (tab with gear icon)→Install Custom (Upload and install your watch face file).
-* Find out and choose the downloaded and unpacked `.bin` file.
-* Click on in and install the `.bin` file.
 
 # Build
 
